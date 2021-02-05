@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/MYLearn/CPPVsCode_Cmake/CppMuBan_Cmake/src/hh.cpp
+hh.h
+E:/MYLearn/CPPVsCode_Cmake/CppMuBan_Cmake/src/hh.h
+
+E:/MYLearn/CPPVsCode_Cmake/CppMuBan_Cmake/src/hh.h
+string
+-
+
+E:/MYLearn/CPPVsCode_Cmake/CppMuBan_Cmake/src/main.cpp
+stdio.h
+-
+iostream
+-
+hh.h
+E:/MYLearn/CPPVsCode_Cmake/CppMuBan_Cmake/src/hh.h
+
